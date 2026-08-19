@@ -291,7 +291,7 @@ I'm continuing to learn Kubernetes by practicing each topic and documenting what
     └── day5.png
 ```
 
-![CKA Day 5](../images/day5.png)
+![CKA Day 5](images/day5.png)
 
 ---
 
