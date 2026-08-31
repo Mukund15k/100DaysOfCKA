@@ -827,7 +827,7 @@ https://github.com/Mukund15kale/100DaysOfCKA
 ![CKA Day 17](images/day17.png)
 
 ---
-
+---
 
 ## 🏷️ Tags
 
